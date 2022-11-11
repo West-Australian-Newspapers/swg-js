@@ -3,7 +3,7 @@
   "name": "subscribe-with-google",
   "version": "0.1.22",
   "description": "Subscribe with Google",
-  "main": "index.js",
+  "main": "src/index.js",
   "engines": {
     "node": "^14.0.0",
     "yarn": "^1.10.1"
